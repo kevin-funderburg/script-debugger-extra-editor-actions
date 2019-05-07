@@ -10,10 +10,12 @@
 	
 	![](imgs/selectCutCopyLine.gif)
 	
+	
 	5. Move Line Up
 	6. Move Line Down
 	
 	![](imgs/moveLineUpDown.gif)
+
 
 
 - Word Actions:
@@ -32,6 +34,15 @@
 	
 	![](imgs/selectCopyDeleteCamelHumps.gif)
 
-Personally I use Keyboard Maestro to execute these scripts as in the example below.
+
+
+- Personally I use Keyboard Maestro to execute these scripts as in the example below.
 
 ![Alt text](imgs/macro.png?raw=true "Title")
+
+
+
+Installation
+------------
+Download the zip file and extract the Script Debugger Library.scptd to ~/Library/Script Libraries
+and that's it!
